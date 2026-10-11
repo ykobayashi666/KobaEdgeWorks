@@ -67,5 +67,5 @@
 本ポリシーおよび本アプリにおける個人情報の取扱いに関するお問い合わせ・ご意見は、以下のお問い合わせ窓口までご連絡ください。
 
 * **事業者名:** Koba Edge Works
-* **お問い合わせ:** [[https://forms.gle/7dW4vQgUfZfTfg7Q9](https://forms.gle/7dW4vQgUfZfTfg7Q9)]
+* **お問い合わせ:** [[https://forms.gle/ZdVPu9TwdRkK9NXPA](https://forms.gle/ZdVPu9TwdRkK9NXPA)]
 * **制定日:** 2026年9月27日
