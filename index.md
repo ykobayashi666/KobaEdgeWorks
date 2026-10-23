@@ -15,7 +15,7 @@ Koba Edge Worksは、日々の生活をより便利に、快適にするため�
 ### StationAlarm
 
 位置情報を使った、電車やバス、地下鉄で乗り過ごし/寝過ごしを防ぐAndroid向けアラームアプリです。
-[StationAlarm 乗り過ごし防止GPS](https://play.google.com/store/apps/details?id=com.kobaedgeworks.stationalarm)
+* [StationAlarm 乗り過ごし防止GPS](https://play.google.com/store/apps/details?id=com.kobaedgeworks.stationalarm)
 * [プライバシーポリシー](/station-alarm-privacy)
 
 ---
