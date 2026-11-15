@@ -67,7 +67,8 @@ We may revise this Policy in response to changes in applicable laws and regulati
 If you have any questions, comments, or inquiries regarding this Policy or the handling of personal information in the App, please contact us using the details below:
 
 * **Developer / Operator:** Koba Edge Works
-* **Contact:** [[https://forms.gle/ZdVPu9TwdRkK9NXPA](https://forms.gle/7dW4vQgUfZfTfg7Q9)]
+* **Contact:** [[https://forms.gle/ZdVPu9TwdRkK9NXPA](https://forms.gle/ZdVPu9TwdRkK9NXPA)]
+
 * **Effective Date:** September 27, 2026
 
 ---
@@ -142,5 +143,5 @@ If you have any questions, comments, or inquiries regarding this Policy or the h
 本ポリシーおよび本アプリにおける個人情報の取扱いに関するお問い合わせ・ご意見は、以下のお問い合わせ窓口までご連絡ください。
 
 * **事業者名:** Koba Edge Works
-* **お問い合わせ:** [[https://forms.gle/ZdVPu9TwdRkK9NXPA](https://forms.gle/7dW4vQgUfZfTfg7Q9)]
+* **お問い合わせ:** [[https://forms.gle/ZdVPu9TwdRkK9NXPA](https://forms.gle/ZdVPu9TwdRkK9NXPA)]
 * **制定日:** 2026年9月27日
