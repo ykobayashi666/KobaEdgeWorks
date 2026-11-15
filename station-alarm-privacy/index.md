@@ -1,3 +1,78 @@
+# Privacy Policy
+
+**Koba Edge Works** (hereinafter referred to as "we," "us," or "our") establishes the following Privacy Policy (hereinafter referred to as "this Policy") regarding the handling of users' personal and privacy information in the smartphone application "StationAlarm" (hereinafter referred to as "the App"), and strives to ensure its proper protection.
+
+---
+
+### 1. Information We Collect and Purpose of Use
+
+In the App, we collect and use the following information to provide our features and improve our services:
+
+#### (1) Location Information (GPS, Wi-Fi, and Cellular Base Station Information)
+* **Information Collected:** Current location data of your device (latitude and longitude).
+* **Purpose of Use:** To detect proximity to a user-specified destination (such as a designated train station) and notify you via an alarm.
+* **Note:** The App utilizes location information to determine proximity to your destination even when the app is running in the background or when your screen is locked. **The collected location information is processed solely on your device for alarm triggering purposes and is never transmitted to or stored on our servers or any third-party servers.**
+
+#### (2) Device Identifiers and Usage Data (Advertising and Analytics)
+* **Information Collected:** Advertising identifiers (GAID / IDFA), IP address, device model information, OS version, and app usage statistics.
+* **Purpose of Use:** To display advertisements within the App (free version), analyze app usage trends, and improve overall service quality.
+
+#### (3) In-App Purchases and Subscription Information
+* **Information Collected:** Purchase history and subscription status.
+* **Purpose of Use:** To activate and manage premium features (such as unlimited station registrations and ad removal).
+* **Note:** All payment transactions are processed securely through Google Play's billing system. We do not collect, process, or retain your credit card details or bank account information.
+
+---
+
+### 2. Use of Device Permissions
+
+The App requires the following device permissions to provide its core functionalities:
+
+* **Location (`ACCESS_FINE_LOCATION` / `ACCESS_COARSE_LOCATION`):** Used to detect proximity to your designated destination.
+* **Foreground Service (`FOREGROUND_SERVICE` / `FOREGROUND_SERVICE_LOCATION`):** Used to continuously monitor location in the background while the app is closed or while you are using other apps.
+* **Notifications (`POST_NOTIFICATIONS`):** Used to display notifications when an alarm triggers and while the background monitoring service is active.
+* **Full-Screen Intent (`USE_FULL_SCREEN_INTENT`):** Used to immediately display the alarm screen when an alarm triggers, even if your smartphone is locked.
+* **Vibration (`VIBRATE`):** Used to vibrate your device when an alarm triggers.
+
+---
+
+### 3. Third-Party Modules and Disclosure to Third Parties
+
+We will not provide your personal information to any third party without your consent. However, the App integrates the following third-party service modules for advertising and usage analytics. Please refer to the respective privacy policies of these providers for details on the information they collect and how they use it:
+
+* **Google AdMob (Advertising)**
+  * Provider: Google LLC
+  * Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+* **Google Play Billing (In-App Purchases)**
+  * Provider: Google LLC
+  * Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+---
+
+### 4. Disclaimer
+
+1. The App's location-based alarm may experience temporary delays or inaccuracies due to GPS, Wi-Fi, or cellular signal conditions, device battery optimization settings, or OS specifications. Please note that we assume no responsibility or liability for any damages resulting from the use of the App, including missed stops or transfers.
+2. We are not responsible for the content or privacy practices of any third-party websites or services linked from the App.
+
+---
+
+### 5. Changes to This Privacy Policy
+
+We may revise this Policy in response to changes in applicable laws and regulations or updates and additions to the App's features. Any revised Privacy Policy shall take effect upon being posted within the App or on our designated web page.
+
+---
+
+### 6. Contact Us
+
+If you have any questions, comments, or inquiries regarding this Policy or the handling of personal information in the App, please contact us using the details below:
+
+* **Developer / Operator:** Koba Edge Works
+* **Contact:** [[https://forms.gle/ZdVPu9TwdRkK9NXPA](https://forms.gle/7dW4vQgUfZfTfg7Q9)]
+* **Effective Date:** September 27, 2026
+
+---
+---
+
 # プライバシーポリシー
 
 **Koba Edge Works**（以下「当事業者」といいます。）は、当事業者が提供するスマートフォン向けアプリケーション「StationAlarm」（以下「本アプリ」といいます。）における、ユーザーの個人情報およびプライバシー情報の取扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」といいます。）を定め、適切な保護に努めます。
@@ -67,5 +142,5 @@
 本ポリシーおよび本アプリにおける個人情報の取扱いに関するお問い合わせ・ご意見は、以下のお問い合わせ窓口までご連絡ください。
 
 * **事業者名:** Koba Edge Works
-* **お問い合わせ:** [[https://forms.gle/ZdVPu9TwdRkK9NXPA](https://forms.gle/ZdVPu9TwdRkK9NXPA)]
+* **お問い合わせ:** [[https://forms.gle/ZdVPu9TwdRkK9NXPA](https://forms.gle/7dW4vQgUfZfTfg7Q9)]
 * **制定日:** 2026年9月27日
