@@ -18,6 +18,11 @@ Koba Edge Worksは、日々の生活をより便利に、快適にするため�
 * [StationAlarm 乗り過ごし防止GPS](https://play.google.com/store/apps/details?id=com.kobaedgeworks.stationalarm)
 * [プライバシーポリシー](/station-alarm-privacy)
 
+### SlideTimeKeeper プレゼンタイマー・時間管理
+スライドごとの時間配分と発表中の巻き・押しをリアルタイム管理！超過時のカラー警告で時間オーバーを防ぐスライド用プレゼンタイマーです。
+* [プライバシーポリシー](/slide-time-keeper/privacy)
+
+
 ---
 
 ## Contact
